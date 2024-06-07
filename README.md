@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 <a href="t.me/KO7T0">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3e5f2b6c-f8ce-40d6-a284-2d991561721f">
 </a>
+
+
 # 😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕞𝕒𝕤𝕥𝕖𝕣𝕖𝕕:
 
 <img width="35" alt="Skill 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c9b2e5c-c64b-4c64-95eb-fe5fb5dbb80c">
