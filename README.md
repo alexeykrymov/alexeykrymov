@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 <a href="https://www.sololearn.com/en/profile/6436543">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d69cf089-41d7-4616-ba25-7c6f4ba95b49">
 </a>
+<a href="https://infospace.ge/">
+  <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2ac5a557-01ea-4afb-bcd6-5014385f66ad">
+</a>
 
 # 😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕞𝕒𝕤𝕥𝕖𝕣𝕖𝕕:
 
