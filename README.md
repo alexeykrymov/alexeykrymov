@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:
+Instagram   VK   Telegram   Facebook   Twitter   Discord   YouTube
+
 
 ⚡ 𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤:
 
