@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 
 # 😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕞𝕒𝕤𝕥𝕖𝕣𝕖𝕕:
 
-<img width="35" alt="Skill 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2d32fa69-3dcc-48e7-ae55-07cfbe032bad">
-<img width="35" alt="Skill 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c9b2e5c-c64b-4c64-95eb-fe5fb5dbb80c">
-<img width="35" alt="Skill 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d4acc0cb-2733-463a-9bd3-0949b2b66a6d">
-<img width="35" alt="Skill 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b23ea10b-6ac1-4cff-a64c-9ff779cc01a6">
-<img width="35" alt="Skill 5" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/fd570f3e-b315-4293-9fcc-569a65bb0ae36">
+<img width="35" alt="Skill 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c9b2e5c-c64b-4c64-95eb-fe5fb5dbb80c">
+<img width="35" alt="Skill 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b23ea10b-6ac1-4cff-a64c-9ff779cc01a6">
+<img width="35" alt="Skill 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/fd570f3e-b315-4293-9fcc-569a65bb0ae36">
+<img width="35" alt="Skill 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2d32fa69-3dcc-48e7-ae55-07cfbe032bad">
+<img width="35" alt="Skill 5" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d4acc0cb-2733-463a-9bd3-0949b2b66a6d">
 
 # 🌱 I’m currently learning:
 
