@@ -74,9 +74,23 @@ Here are some ideas to get you started:
 <img width="35" alt="Tool 6" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/51f100b6-bdc9-4092-8073-ed28e67d8564">
 <img width="35" alt="Tool 7" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/547edf65-1fef-488a-8460-b05261c3936f">
 <img width="35" alt="Tool 8" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/fdd1dc27-348a-46a4-8b2d-d47ece32258b">
-<img width="35" alt="Tool 9" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/bcac9473-2854-4d3e-a330-301cd9d2135c">
-<img width="35" alt="Tool 10" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/f23b8f85-71aa-404e-94f6-6c7086c7e46d">
-<img width="35" alt="Tool 11" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/26f14e17-f019-4e0c-8560-65e905bda6cf">
+<img width="35" alt="Tool 9" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/bcac2c91-173f-4995-b459-9f54987f873e">
+<img width="35" alt="Tool 10" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b3c2bc87-7b01-48e9-812f-defb1cd83e81">
+<img width="35" alt="Tool 11" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/ba5d5f91-7a42-47bb-a803-20b23b919f08">
 
+# 💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:
 
+<img width="35" alt="IDE 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/933c3190-2440-484e-9c23-6944db3f7325">
+<img width="35" alt="IDE 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/a3a14d91-4ce0-4d23-91f1-6d5b1d6da38f">
+<img width="35" alt="IDE 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/f0733e09-abba-4f20-a96d-629999eba955">
+<img width="35" alt="IDE 5" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/115f50ab-17be-4187-8e68-0ddee1e1e834">
 
+# 🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:
+
+<img width="35" alt="Browser 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/c033138f-2bce-4afa-960e-7aa7f08109ad">
+<img width="35" alt="Browser 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/ad163b43-6aea-4e23-9093-992b316d8b6f">
+<img width="35" alt="Browser 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/1cf3402c-0068-444a-8d95-63fbd5854b85">
+<img width="35" alt="Browser 5" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d07508f9-edfa-4815-82bb-1e26c966eb8a">
+<img width="35" alt="Browser 6" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/74934866-c98b-4988-8d9d-1d7fd284a6a3">
+<img width="35" alt="Browser 7" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/21032fd0-b6d8-43b9-9e81-f7885b32e5df">
+<img width="35" alt="Browser 8" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3a915886-04a1-4628-aafe-5d19c02dddcb">
