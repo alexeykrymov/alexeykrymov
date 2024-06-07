@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 style="font-size: 20px;"># 📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
+<h3 style="font-size: 20px;"># 📡 𝕐𝕠𝕦 𝕔𝕒𝕟 𝕗𝕚𝕟𝕕 𝕞𝕖 𝕙𝕖𝕣𝕖</h3>
 
 
 <a href="https://www.upwork.com/freelancers/~0188c427729dac0967">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<h3 style="font-size: 20px;"># My games and applications on google play:</h3>
+<h3 style="font-size: 20px;"># 𝕄𝕪 𝕘𝕒𝕞𝕖𝕤 𝕒𝕟𝕕 𝕒𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟𝕤 𝕠𝕟 𝕘𝕠𝕠𝕘𝕝𝕖 𝕡𝕝𝕒𝕪:</h3>
 
 
 <a href="https://play.google.com/store/apps/details?id=com.upstep.smartcalories&hl=en&gl=US">
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <img width="35" alt="Skill 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2d32fa69-3dcc-48e7-ae55-07cfbe032bad">
 <img width="35" alt="Skill 5" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d4acc0cb-2733-463a-9bd3-0949b2b66a6d">
 
-<h3 style="font-size: 20px;"># 🌱 I’m currently learning:</h3>
+<h3 style="font-size: 20px;"># 🌱 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘:</h3>
 
 <img width="35" alt="Learning 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/85cbd07f-ef69-41c4-aef3-bca17b7e339a">
 <img width="35" alt="Learning 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/94f478ff-5c4c-4c6a-9611-4b210841c5ce">
