@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+⚡ 𝕄𝕪 𝕤𝕜𝕚𝕝𝕝𝕤:
+![321360952-1d76ac48-f7f0-4661-9354-57a0b7378543](https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2d32fa69-3dcc-48e7-ae55-07cfbe032bad)
+![310157303-f57b9084-de1b-446e-bda7-7d03c47104f2](https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c9b2e5c-c64b-4c64-95eb-fe5fb5dbb80c)
+![320785320-d0bea805-eac8-4346-a63b-6e4c2a974840](https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d4acc0cb-2733-463a-9bd3-0949b2b66a6d)
+![310157411-cd95a93e-00fa-4bfe-bdac-75efc5f08a3a](https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b23ea10b-6ac1-4cff-a64c-9ff779cc01a6)
