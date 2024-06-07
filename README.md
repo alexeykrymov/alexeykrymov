@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 <a href="https://www.upwork.com/freelancers/~0188c427729dac0967">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/096f5c9a-9f84-48f3-afdc-d759617d5063">
 </a>
-<a href="https://example.com">
-  <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b3fca0a1-3fa4-41fa-a55b-622701d08b77">
-</a>
-<a href="t.me/KO7T0">
-  <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3e5f2b6c-f8ce-40d6-a284-2d991561721f">
+
+<a href="https://www.sololearn.com/en/profile/6436543">
+  <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d69cf089-41d7-4616-ba25-7c6f4ba95b49">
 </a>
 <a href="https://www.linkedin.com/in/aleksei-krymov-ko7t0/">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/81a92b75-e11c-420a-8137-e6252450d279">
@@ -39,13 +37,15 @@ Here are some ideas to get you started:
 <a href="https://lichess.org/@/KO7T0">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/a15a09f3-0907-497f-a1c8-0dd175fbdd94">
 </a>
-<a href="https://www.sololearn.com/en/profile/6436543">
-  <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d69cf089-41d7-4616-ba25-7c6f4ba95b49">
-</a>
 <a href="https://infospace.ge/">
   <img width="50" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2ac5a557-01ea-4afb-bcd6-5014385f66ad">
 </a>
-
+<a href="https://example.com">
+  <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b3fca0a1-3fa4-41fa-a55b-622701d08b77">
+</a>
+<a href="t.me/KO7T0">
+  <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3e5f2b6c-f8ce-40d6-a284-2d991561721f">
+</a>
 # 😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕞𝕒𝕤𝕥𝕖𝕣𝕖𝕕:
 
 <img width="35" alt="Skill 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c9b2e5c-c64b-4c64-95eb-fe5fb5dbb80c">
