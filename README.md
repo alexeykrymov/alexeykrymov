@@ -47,13 +47,13 @@ Here are some ideas to get you started:
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3e5f2b6c-f8ce-40d6-a284-2d991561721f">
 </a>
 
-#My games and applications on google play
+# My games and applications on google play
 
 <a href="https://play.google.com/store/apps/details?id=com.upstep.smartcalories&hl=en&gl=US">
-  <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/7437348b-42c2-4d59-beb8-6908ebf40d39">
+  <img width="45" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/7437348b-42c2-4d59-beb8-6908ebf40d39">
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.upstep.labyrinthofdeadlytraps&hl=en&gl=US">
-  <img width="35" alt="Example" src="[https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3e5f2b6c-f8ce-40d6-a284-2d991561721f](https://github.com/alexeykrymov/alexeykrymov/assets/55350467/289a3419-71f4-4e8e-a51b-6153572775b9)">
+  <img width="45" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/289a3419-71f4-4e8e-a51b-6153572775b9">
 </a>
 
 
