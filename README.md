@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 #💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:
 
-<img width="50" alt="IDE 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/341dc231-42d2-4121-b22f-712d3e96c289">
+
 <img width="50" alt="IDE 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/933c3190-2440-484e-9c23-6944db3f7325">
 <img width="50" alt="IDE 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/a3a14d91-4ce0-4d23-91f1-6d5b1d6da38f">
 <img width="50" alt="IDE 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/f0733e09-abba-4f20-a96d-629999eba955">
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 #🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:
 
-<img width="50" alt="Browser 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/341dc231-42d2-4121-b22f-712d3e96c289">
+
 <img width="50" alt="Browser 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/c033138f-2bce-4afa-960e-7aa7f08109ad">
 <img width="50" alt="Browser 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/ad163b43-6aea-4e23-9093-992b316d8b6f">
 <img width="50" alt="Browser 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/1cf3402c-0068-444a-8d95-63fbd5854b85">
