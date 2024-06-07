@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-# 📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:
+<h3 style="font-size: 20px;"># 📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:</h3>
+
 
 <a href="https://www.upwork.com/freelancers/~0188c427729dac0967">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/096f5c9a-9f84-48f3-afdc-d759617d5063">
@@ -47,7 +48,9 @@ Here are some ideas to get you started:
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3e5f2b6c-f8ce-40d6-a284-2d991561721f">
 </a>
 
-# My games and applications on google play
+
+<h3 style="font-size: 20px;"># My games and applications on google play:</h3>
+
 
 <a href="https://play.google.com/store/apps/details?id=com.upstep.smartcalories&hl=en&gl=US">
   <img width="45" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/7437348b-42c2-4d59-beb8-6908ebf40d39">
@@ -57,8 +60,8 @@ Here are some ideas to get you started:
 </a>
 
 
+<h3 style="font-size: 20px;"# 😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕞𝕒𝕤𝕥𝕖𝕣𝕖𝕕:</h3>
 
-# 😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕞𝕒𝕤𝕥𝕖𝕣𝕖𝕕:
 
 <img width="35" alt="Skill 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c9b2e5c-c64b-4c64-95eb-fe5fb5dbb80c">
 <img width="35" alt="Skill 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b23ea10b-6ac1-4cff-a64c-9ff779cc01a6">
@@ -66,20 +69,22 @@ Here are some ideas to get you started:
 <img width="35" alt="Skill 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2d32fa69-3dcc-48e7-ae55-07cfbe032bad">
 <img width="35" alt="Skill 5" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d4acc0cb-2733-463a-9bd3-0949b2b66a6d">
 
-# 🌱 I’m currently learning:
+<h3 style="font-size: 20px;"># 🌱 I’m currently learning:</h3>
 
 <img width="35" alt="Learning 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/85cbd07f-ef69-41c4-aef3-bca17b7e339a">
 <img width="35" alt="Learning 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/94f478ff-5c4c-4c6a-9611-4b210841c5ce">
 <img width="35" alt="Learning 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b536c713-3ee3-4820-ae2f-d60149c2f732">
 <img width="35" alt="Learning 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/68281b00-2175-4ceb-a75d-29e1c412cb0c">
 
-# 💼 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:
+<h3 style="font-size: 20px;"># 💼 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:</h3>
+
 
 <img width="35" alt="𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c468ca7-913c-4390-addb-42285f7bee0f">
 <img width="35" alt="𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/71b6dd16-7301-4314-a64f-93fa8d12a3d7">
 <img width="35" alt="𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2cd65841-690d-4c0a-a5cb-61af740d52b4">
 
-# 🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:
+<h3 style="font-size: 20px;"># 🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:</h3>
+
 
 <img width="35" alt="Tool 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c468ca7-913c-4390-addb-42285f7bee0f">
 <img width="35" alt="Tool 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/f91d6fe6-a64c-4dec-a3e5-c3234ea09a56">
@@ -93,14 +98,16 @@ Here are some ideas to get you started:
 <img width="35" alt="Tool 10" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b3c2bc87-7b01-48e9-812f-defb1cd83e81">
 <img width="35" alt="Tool 11" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/ba5d5f91-7a42-47bb-a803-20b23b919f08">
 
-# 💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:
+<h3 style="font-size: 20px;"># 💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:</h3>
+
 
 <img width="35" alt="IDE 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/933c3190-2440-484e-9c23-6944db3f7325">
 <img width="35" alt="IDE 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/a3a14d91-4ce0-4d23-91f1-6d5b1d6da38f">
 <img width="35" alt="IDE 4" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/f0733e09-abba-4f20-a96d-629999eba955">
 <img width="35" alt="IDE 5" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/115f50ab-17be-4187-8e68-0ddee1e1e834">
 
-# 🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:
+<h3 style="font-size: 20px;"># 🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:</h3>
+
 
 <img width="35" alt="Browser 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/c033138f-2bce-4afa-960e-7aa7f08109ad">
 <img width="35" alt="Browser 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/ad163b43-6aea-4e23-9093-992b316d8b6f">
