@@ -15,31 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://camo.githubusercontent.com/a6d80e94ae05486271b83ded3ce1f09fbab7ff4685580fcba0e139e28f4426ee/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f323433383031333337353533363934303932372f443337304442463742464338334544333646373833463038413539384646463345373141314436312f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365
-
-https://raw.githubusercontent.com/BogdanKlimov11/BogdanKlimov11/output/github-contribution-grid-snake.svg
 
 # 📡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:
 
-<a href="https://example.com">
+<a href="https://www.upwork.com/freelancers/~0188c427729dac0967">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/096f5c9a-9f84-48f3-afdc-d759617d5063">
 </a>
 <a href="https://example.com">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b3fca0a1-3fa4-41fa-a55b-622701d08b77">
 </a>
-<a href="https://example.com">
+<a href="t.me/KO7T0">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3e5f2b6c-f8ce-40d6-a284-2d991561721f">
 </a>
 <a href="https://www.linkedin.com/in/aleksei-krymov-ko7t0/">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/81a92b75-e11c-420a-8137-e6252450d279">
 </a>
-<a href="https://example.com">
+<a href="https://github.com/alexeykrymov">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3be2fe29-e0ae-4c29-a32a-169643347141">
 </a>
-<a href="https://example.com">
+<a href="https://www.chess.com/member/ko7t0">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/7e271f39-cc35-465c-8341-2acc045913db">
 </a>
-<a href="https://example.com">
+<a href="https://lichess.org/@/KO7T0">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/a15a09f3-0907-497f-a1c8-0dd175fbdd94">
 </a>
 <a href="https://www.sololearn.com/en/profile/6436543">
