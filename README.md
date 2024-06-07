@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 </a>
 
 # 😎 𝔸𝕝𝕣𝕖𝕒𝕕𝕪 𝕞𝕒𝕤𝕥𝕖𝕣𝕖𝕕:
+
 <img width="50" alt="Skill 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2d32fa69-3dcc-48e7-ae55-07cfbe032bad">
 <img width="50" alt="Skill 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c9b2e5c-c64b-4c64-95eb-fe5fb5dbb80c">
 <img width="50" alt="Skill 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d4acc0cb-2733-463a-9bd3-0949b2b66a6d">
@@ -59,12 +60,14 @@ Here are some ideas to get you started:
 
 
 # 💼 𝕄𝕪 𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜:
+
 <img width="50" alt="𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c468ca7-913c-4390-addb-42285f7bee0f">
 <img width="50" alt="𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/71b6dd16-7301-4314-a64f-93fa8d12a3d7">
 <img width="50" alt="𝕗𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2cd65841-690d-4c0a-a5cb-61af740d52b4">
 
 
 #🛠️ 𝕄𝕪 𝕥𝕠𝕠𝕝𝕤:
+
 <img width="50" alt="Tool 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/4c468ca7-913c-4390-addb-42285f7bee0f">
 <img width="50" alt="Tool 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/f91d6fe6-a64c-4dec-a3e5-c3234ea09a56">
 <img width="50" alt="Tool 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/bf1dd9a8-2ba0-45d3-a6e2-fc7cc56c7c04">
@@ -78,6 +81,7 @@ Here are some ideas to get you started:
 <img width="50" alt="Tool 11" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/ba5d5f91-7a42-47bb-a803-20b23b919f08">
 
 #💻 𝕀𝔻𝔼𝕤 𝕀 𝕦𝕤𝕖:
+
 <img width="50" alt="IDE 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/341dc231-42d2-4121-b22f-712d3e96c289">
 <img width="50" alt="IDE 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/933c3190-2440-484e-9c23-6944db3f7325">
 <img width="50" alt="IDE 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/a3a14d91-4ce0-4d23-91f1-6d5b1d6da38f">
@@ -85,6 +89,7 @@ Here are some ideas to get you started:
 <img width="50" alt="IDE 5" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/115f50ab-17be-4187-8e68-0ddee1e1e834">
 
 #🛰️ 𝕄𝕪 𝕨𝕖𝕓 𝕓𝕣𝕠𝕨𝕤𝕖𝕣𝕤:
+
 <img width="50" alt="Browser 1" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/341dc231-42d2-4121-b22f-712d3e96c289">
 <img width="50" alt="Browser 2" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/c033138f-2bce-4afa-960e-7aa7f08109ad">
 <img width="50" alt="Browser 3" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/ad163b43-6aea-4e23-9093-992b316d8b6f">
