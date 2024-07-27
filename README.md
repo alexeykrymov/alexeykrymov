@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 <h3 style="font-size: 20px;"># 📡 𝕐𝕠𝕦 𝕔𝕒𝕟 𝕗𝕚𝕟𝕕 𝕞𝕖 𝕙𝕖𝕣𝕖</h3>
 
 
-#<a href="https://www.upwork.com/freelancers/~0188c427729dac0967">
+<!--<a href="https://www.upwork.com/freelancers/~0188c427729dac0967">-->
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/096f5c9a-9f84-48f3-afdc-d759617d5063">
 </a>
 
 <a href="https://www.sololearn.com/en/profile/6436543">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d69cf089-41d7-4616-ba25-7c6f4ba95b49">
 </a>
-#<a href="https://www.linkedin.com/in/aleksei-krymov-ko7t0/">
+<a href="https://www.linkedin.com/in/aleksei-krymov-ko7t0/">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/81a92b75-e11c-420a-8137-e6252450d279">
 </a>
 <a href="https://github.com/alexeykrymov">
