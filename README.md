@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 <a href="https://www.sololearn.com/en/profile/6436543">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d69cf089-41d7-4616-ba25-7c6f4ba95b49">
 </a>
-<a href="https://www.linkedin.com/in/aleksei-krymov-ko7t0/">
+<!--<a href="https://www.linkedin.com/in/aleksei-krymov-ko7t0/">-->
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/81a92b75-e11c-420a-8137-e6252450d279">
 </a>
 <a href="https://github.com/alexeykrymov">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3be2fe29-e0ae-4c29-a32a-169643347141">
 </a>
-<a href="https://www.chess.com/member/ko7t0">
+<!--<a href="https://www.chess.com/member/ko7t0">-->
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/7e271f39-cc35-465c-8341-2acc045913db">
 </a>
-<a href="https://lichess.org/@/KO7T0">
+<!--<a href="https://lichess.org/@/KO7T0">-->
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/a15a09f3-0907-497f-a1c8-0dd175fbdd94">
 </a>
 <a href="https://infospace.ge/">
