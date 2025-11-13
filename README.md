@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/096f5c9a-9f84-48f3-afdc-d759617d5063">
 </a>
 
-<a href="https://www.sololearn.com/en/profile/6436543">
+<!--<a href="https://www.sololearn.com/en/profile/6436543">-->
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/d69cf089-41d7-4616-ba25-7c6f4ba95b49">
 </a>
 <!--<a href="https://www.linkedin.com/in/aleksei-krymov-ko7t0/">-->
