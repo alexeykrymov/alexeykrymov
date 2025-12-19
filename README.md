@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 <a href="https://infospace.ge/">
   <img width="50" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/2ac5a557-01ea-4afb-bcd6-5014385f66ad">
 </a>
-<a href="https://example.com">
+<!--<a href="https://example.com">
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/b3fca0a1-3fa4-41fa-a55b-622701d08b77">
-</a>
-<a href="https://t.me/KO7T0">
+</a>-->
+<!--<a href="https://t.me/KO7T0">-->
   <img width="35" alt="Example" src="https://github.com/alexeykrymov/alexeykrymov/assets/55350467/3e5f2b6c-f8ce-40d6-a284-2d991561721f">
 </a>
 
